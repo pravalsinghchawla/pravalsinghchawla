@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Praval Singh Chawla 👋
 
-<!--
-**pravalsinghchawla/pravalsinghchawla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying a bachelor's degree in Electronics, Informatics & Technology at the University of Oslo. Some of my interests are robotics, AI & ML, control systems and numerical simulations. 
 
-Here are some ideas to get you started:
+### Languages:
+- Python
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & interests:
+- Scientific computing: NumPy, SciPy, Scikit-Lean & Matplotlib
+- ODE solvers & simulations
+- Algorithm analysis
+- AI/ML foundations
