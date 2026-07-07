@@ -1,27 +1,21 @@
-## Hi, I'm Praval Singh Chawla 👋
+# Hi, I'm Praval Singh Chawla 👋
 
-Bachelor's student in Electronics, Informatics & Technology at the University of Oslo,
-with a strong interest in computer systems, simulation and intelligent technologies.
+
+### Education:
+- **Master's in Robotics and Intelligent Systems** - University of Oslo (2026 - 2028)
+- **Bachelor's in Electronics, Informatics & Technology** - University of Oslo (2023 - 2026)
 
 ### Languages:
 - Python
 - C++
+- C *(learning)*
 
-### Technical Focus
-- Numerical methods & ODE-based simulations
-- Signal processing and frequency analysis (FFT)
-- System modeling and physical simulation
-- Algorithmic thinking and performance-aware programming
-- Structured testing and clean code practices
-
-### Computer & Engineering Interests
-- Computer hardware and system-level performance
-- Interaction between software and hardware
-- AI, machine learning and intelligent systems
-- Simulation-driven problem solving
-
-### Other
-- Gaming
-- Fashion
+### Technical Interests
+- Robotics & cybernetics
+- AI, machine learning & intelligent systems
+- Numerical methods, ODE-based & physical simulation
+- Signal processing & frequency analysis (FFT)
+- Hardware/software interaction & system-level performance
+- Clean, testable, performance-aware code
 
   
