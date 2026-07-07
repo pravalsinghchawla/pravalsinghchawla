@@ -2,9 +2,9 @@
 
 
 ### Education:
-- **Master's in Robotics and Intelligent Systems** - University of Oslo (2026 - 2028)
+- **Master's in Robotics and Intelligent Systems** - University of Oslo (2026 - 2028)\
 - **Bachelor's in Electronics, Informatics & Technology** - University of Oslo (2023 - 2026)
-
+  - Grade average: B
 ### Languages:
 - Python
 - C++
